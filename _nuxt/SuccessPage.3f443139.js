@@ -1,0 +1,1 @@
+import{b as t,_ as o}from"./entry.646eb140.js";import{G as s,N as c,O as a,P as n,F as r,Q as _}from"./swiper-vue.0a23894d.js";const l=n("h1",{class:"text-blue-400 text-2xl"},"Спасибо за покупку!",-1);function x(i,u){const e=t;return r(),s("div",null,[l,c(e,{class:"text-indigo-700",to:"/"},{default:a(()=>[_("Назад")]),_:1})])}const d={},p=o(d,[["render",x]]);export{p as default};
